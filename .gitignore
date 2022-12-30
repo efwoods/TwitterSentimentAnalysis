@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# dataset
+input/sentiment140/training.1600000.processed.noemoticon.csv
+
 # Distribution / packaging
 .Python
 build/
