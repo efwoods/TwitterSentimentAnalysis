@@ -18,8 +18,8 @@ The Linear Support Vector Classification model had the greatest potential perfor
 After defining a threshold and tuning the Logistic Regression model, f1-score performance remained at the highest of all 3 models. There was a trade-off between recall and precision for negative sentiment with an increase in recall with respect to negative sentiment of 0.03% and a decrease of 0.01% with respect to the precision of negative sentiment. There was a trade-off between recall and precision for negative sentiment with an increase in precision with respect to positive sentiment of 0.02% and a decrease of 0.03% with respect to the recall of positive sentiment. In summary, the tuning did not decrease overall f1-score performance, and increased the ability of the model to precisely detect positive sentiment while increasing the recall of negative sentiment without much cost in precision, recall, or performance.
 
 ## Future Work
-    - [ ] Serve the custom tuned models with an api
-    - [ ] Integrate detection of depression into an application that returns hugs/kindness/love to depressed tweets
-    - [ ] Evaluate model implementations of K-Nearest Neighbor, Decision Tree, and Random Forest
-    - [ ] Discover insights & tune hyperparameters of the created models with shap, GridCVSearch, & optuna
-    - [ ] Develop a utility class for re-use of methods in further research & works
+   - [ ] Serve the custom tuned models with an api
+   - [ ] Integrate detection of depression into an application that returns hugs/kindness/love to depressed tweets
+   - [ ] Evaluate model implementations of K-Nearest Neighbor, Decision Tree, and Random Forest
+   - [ ] Discover insights & tune hyperparameters of the created models with shap, GridCVSearch, & optuna
+   - [ ] Develop a utility class for re-use of methods in further research & works
