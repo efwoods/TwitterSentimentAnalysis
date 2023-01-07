@@ -3,7 +3,7 @@ Sentiment Analysis of tweets using the sentiment 140 dataset. Compares &amp; con
 
 ## [Dataset](https://www.kaggle.com/datasets/kazanova/sentiment140)
 
-## [Summary](https://github.com/efwoods/TwitterSentimentAnalysis/blob/main/analysis.ipynb)
+## [Summary](https://github.com/efwoods/TwitterSentimentAnalysis/blob/main/analysis 2.ipynb)
 
 ### Baseline Performance
 The Bernoulli Naive Bayes, Linear Support Vector Classification, and Logistic Regression models showed baseline performant f1-scores for negative and positive sentiments with values of 82%/83%, 90%/90%, & 87%/87% respectively. These are the goal performance f1-scores and the maximum performance possible to obtain from the test data.
